@@ -80,3 +80,5 @@ ID: 6, Name: Polina, Grade: 77
 ID: 7, Name: Darya Stasiuk, Grade: 90
 ID: 8, Name: Sasha Stasiuk, Grade: 80
 ```
+# UML Diagramm
+![](Documentation/uml.png)
