@@ -1,0 +1,52 @@
+[
+    {
+        "student_id": "1",
+        "name": "Dasha",
+        "grade": 100
+    },
+    {
+        "student_id": "2",
+        "name": "Liza",
+        "grade": 22
+    },
+    {
+        "student_id": "3",
+        "name": "Kolya",
+        "grade": 55
+    },
+    {
+        "student_id": "4",
+        "name": "Nastya",
+        "grade": 23
+    },
+    {
+        "student_id": "5",
+        "name": "Misha h",
+        "grade": 45
+    },
+    {
+        "student_id": "6",
+        "name": "Polina",
+        "grade": 77
+    },
+    {
+        "student_id": "7",
+        "name": "Darya Stasiuk",
+        "grade": 90
+    },
+    {
+        "student_id": "8",
+        "name": "Sasha Stasiuk",
+        "grade": 80
+    },
+    {
+        "student_id": "9",
+        "name": "Dasha",
+        "grade": 77
+    },
+    {
+        "student_id": "10",
+        "name": "Fiona",
+        "grade": 67
+    }
+]
