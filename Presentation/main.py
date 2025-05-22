@@ -50,5 +50,3 @@ def main():
         else:
             print("\033[31mInvalid choice\033[0m")
 
-if __name__ == '__main__':
-    main()
